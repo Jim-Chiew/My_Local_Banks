@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+
+    <string name="dbs">DBS</string>
+    <string name="dbs_chinese">星展银行</string>
+    <string name="dbsWebSite">https://www.dbs.com.sg</string>
+    <string name="dbsNumber">1 + " " + 800 + "-" + 111 + "-" + 1111</string>
+
+
+    <string name="ocbc">OCBC</string>
+    <string name="ocbc_chinese">华侨银行</string>
+    <string name="ocbcWebSite">https://www.ocbc.com</string>
+    <string name="ocbcNumber">1 + " " + 800 + "-" + 363 + "-" + 3333</string>
+
+    <string name="uob">UOB</string>
+    <string name="uob_chinese">大华银行</string>
+    <string name="uobWebSite">"https://www.uob.com.sg"</string>
+    <string name="uobNumber">1 + " " + 800 + "-" + 222 + "-" + 2121</string>
+
+</resources>
